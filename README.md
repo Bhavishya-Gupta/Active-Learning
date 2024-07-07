@@ -4,4 +4,4 @@
 ## ASSIGNMENT 2 : 
 ###  In this assignment,I have implemented an image classifier on classic dataset CIFAR-10 using Pytorch 
 ## ASSIGNMENT 3:
-# This assignment is an extension of assignment 2 
+###  This assignment is an extension of assignment 2 
